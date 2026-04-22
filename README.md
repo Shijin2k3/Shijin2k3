@@ -1,9 +1,9 @@
-🧠 About Me
+###🧠 About Me
 
-💻 Fullstack Developer with strong backend focus
-⚙️ Building scalable APIs using NestJS & PostgreSQL
-🧩 Designed reusable QueryBuilder engine (filters, joins, pagination)
-📚 Currently learning System Design & DevOps
+* 💻 Fullstack Developer with strong backend focus
+* ⚙️ Building scalable APIs using NestJS & PostgreSQL
+* 🧩 Designed reusable QueryBuilder engine (filters, joins, pagination)
+* 📚 Currently learning System Design & DevOps
 ---
 
 ## ⚙️ Tech Stack
