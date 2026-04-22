@@ -47,5 +47,6 @@ Become a strong Backend Engineer building scalable systems.
 
 ## 🤝 Connect
 
+* 📧 Email: [shijinkumar2003@gmail.com](mailto:shijinkumar2003@gmail.com)
 
 * Email: (shijinkumar2003@gmail.com)
